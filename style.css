@@ -1,0 +1,149 @@
+body {
+  font-family: Arial, sans-serif;
+  padding-left: 10px;
+  margin: 0;
+  background-color: #eee;
+}
+
+h1 {
+  margin-top: 5px;
+  padding: 0 0 10px 0;
+}
+
+h2 {
+  font-size: 18px;
+  clear: both;
+  color: #666666;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #C6D5E6;
+  padding-top: 20px;
+  padding-left: 2px;
+}
+
+h2.map-preview {
+  border-bottom: 0px;
+}
+
+p {
+   max-width: 45em;
+   line-height: 1.5em;
+}
+
+label {
+  clear: both;
+}
+
+#pagewrap {
+  width: 1000px;
+  border: 1px solid #C6D5E6;
+  background-color: #fff;
+  margin: 10px auto 10px auto;
+  padding: 20px;
+}
+
+#html-code {
+  width: 900px;
+  height: 600px;
+}
+
+#form-div {
+  float: left;
+  width: 400px;
+  margin: 0 50px 20px 0;
+}
+
+#specs {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#layer-forms div {
+  background-color: #C6D5E6;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+#layer-forms p.note {
+  padding-left: 5px;
+  margin-bottom: 2px;
+}
+
+#add-layer {
+  display: None;
+}
+
+.clear {
+  clear: both;
+}
+
+.hide {
+  display: none;
+}
+
+.form-element {
+  clear: both;
+  margin-bottom: 15px;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.note {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-style: italic;
+  font-size: 0.7em;
+  max-width: 1000em;
+}
+
+.right-padding {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.short-input {
+  width: 35px;
+}
+.zHeaderEmbedLink {
+  margin-top: 0px;
+  font-size: x-small;
+  line-height: 1px;
+  clear: both;
+  color: #C6D5E6;
+}
+
+.zHeaderOldFashionedWay {
+  margin-top: 0px;
+  font-size: x-small;
+  text-decoration: underline;
+  text-align: right;
+  padding-right: 5px;
+}
+
+.goog-slider {
+  border: solid 1px #ccc;
+  background-color: #fff;
+  position: relative;
+  overflow: hidden;
+  width: 150px;
+  height: 15px;
+}
+
+.goog-slider-thumb {
+  position: absolute;
+  background-color: #39c;
+  overflow: hidden;
+  width: 10px;
+  height: 100%;
+  top: 0;
+}
